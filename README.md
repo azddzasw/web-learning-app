@@ -1,6 +1,6 @@
 # node-project
 #### ESILV node development project.
-#### Team member:Wenbo SUI, Limin TIAN, Meriem BOUSSADIA 
+#### Team member: Wenbo SUI,Meriem BOUSSADIA, Limin TIAN
 #### There are the steps:
 1. Use 'yarn insatll' to install the package;
 2. Type 'ng serve' to start;
