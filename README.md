@@ -1,7 +1,13 @@
 # node-project
 #### ESILV node development project.
-#### Team member: Wenbo SUI,Meriem BOUSSADIA, Limin TIAN
-#### There are the steps:
+#### Team member: Wenbo SUI, Meriem BOUSSADIA, Limin TIAN
+
+#### Our team has developed a web application for user story learning, and our task assignments are as follows:
+#### Limin TIAN: Responsible for requirements analysis, determining the project's functionality and goals; In charge of project management, creating project plans and task allocation.
+#### Wenbo SUI: Responsible for front-end development, designing and building the user interface.
+#### Meriem BOUSSADIA: Responsible for back-end development.
+
+#### There are the using steps :
 1. Use 'yarn insatll' to install the package;
 2. Type 'ng serve' to start;
 3. Then you can see ** Angular Live Development Server is listening on localhost:4200, open your browser on http://localhost:4200/ **;
