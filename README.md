@@ -1,11 +1,13 @@
 # node-project
 #### ESILV node development project.
 #### Team member: Wenbo SUI, Meriem BOUSSADIA, Limin TIAN
+#### Our final link of our project: https://github.com/Mia16041999/Node-Angular-Project/tree/main
+
 
 #### Our team has developed a web application for user story learning, and our task assignments are as follows:
-#### Limin TIAN: Responsible for requirements analysis, determining the project's functionality and goals; In charge of project management, creating project plans and task allocation.
-#### Wenbo SUI: Responsible for front-end development, designing and building the user interface.
-#### Meriem BOUSSADIA: Responsible for back-end development.
+#### Wenbo SUI: Responsible for front-end development, designing and building the user interface and initial home component.
+#### Limin TIAN: Responsible for the development of the home component, as well as the header and footer components for the initial home page of the application. And the API check function by Swagger.
+#### Meriem BOUSSADIA: In charge of the flashcards component development.
 
 #### There are the using steps :
 1. Use 'yarn insatll' to install the package;
